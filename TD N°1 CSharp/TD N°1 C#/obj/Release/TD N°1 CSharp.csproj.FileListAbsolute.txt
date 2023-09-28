@@ -1,0 +1,6 @@
+U:\SIO2\C#\TD N°1 CSharp\TD N°1 CSharp\bin\Release\TD N°1 CSharp.exe.config
+U:\SIO2\C#\TD N°1 CSharp\TD N°1 CSharp\bin\Release\TD N°1 CSharp.exe
+U:\SIO2\C#\TD N°1 CSharp\TD N°1 CSharp\bin\Release\TD N°1 CSharp.pdb
+U:\SIO2\C#\TD N°1 CSharp\TD N°1 CSharp\obj\Release\TD N°1 CSharp.csproj.CoreCompileInputs.cache
+U:\SIO2\C#\TD N°1 CSharp\TD N°1 CSharp\obj\Release\TD N°1 CSharp.exe
+U:\SIO2\C#\TD N°1 CSharp\TD N°1 CSharp\obj\Release\TD N°1 CSharp.pdb
