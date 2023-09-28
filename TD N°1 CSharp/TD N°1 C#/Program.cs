@@ -1,4 +1,5 @@
-﻿using System;
+// Ceci est le commentaire de M. ZAEGEL
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
